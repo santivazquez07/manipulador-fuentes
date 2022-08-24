@@ -1,0 +1,29 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 7px 5px white;
+    padding: 10px;
+}
+
+.nota{
+    color: black;
+    font-size: 25px;
+}
+
+
+.pata{
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: gray;
+}
+
+canvas{
+    border: 3px solid black;
+    border-radius: 50px;
+    box-shadow: 5px 10px 5px white;    
+}
